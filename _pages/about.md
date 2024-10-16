@@ -44,9 +44,15 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">*2024.9*, National Scholarship</div><img src='images/Scholarship.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2024.9*, National Scholarship
+<div class='award-box'>
+  <div class='award-box-image'>
+    <div>
+      <div class="badge">*2024.9*, National Scholarship</div>
+      <img src='images/Scholarship.png' alt="National Scholarship" width="100%">
+    </div>
+  </div>
+</div>
+
 
 # 📖 Educations
 - *2022.09 - 2026.06(expected)*,  BEng., Huazhong University of Science and Technology
