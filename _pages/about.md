@@ -44,14 +44,11 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-<div class='award-box'>
-  <div class='award-box-image'>
-    <div>
-      <div class="badge">*2024.9*, National Scholarship</div>
-      <img src='images/Scholarship.png' alt="National Scholarship" width="100%">
-    </div>
-  </div>
-</div>
+
+![National Scholarship](images/Scholarship.png)
+
+- *2024.9*, National Scholarship
+
 
 
 # 📖 Educations
