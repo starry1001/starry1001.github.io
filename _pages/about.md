@@ -46,8 +46,11 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎖 Honors and Awards
 <div style="display: flex; align-items: center;">
   <img src='images/Scholarship.png' alt='National Scholarship' width='400' style="margin-right: 10px;" />
-  <span>-*2024.9*, National Scholarship 🎉🎉🎉</span>
+  <div>
+    <span style="font-style: italic;">*2024.9*, National Scholarship 🎉🎉🎉</span>
+  </div>
 </div>
+
 
 # 📖 Educations
 - *2022.09 - 2026.06(expected)*,  BEng., Huazhong University of Science and Technology
