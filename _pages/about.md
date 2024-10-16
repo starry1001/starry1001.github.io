@@ -47,9 +47,10 @@ My research interest includes neural machine translation and computer vision. I 
 <div style="display: flex; align-items: center;">
   <img src='images/Scholarship.png' alt='National Scholarship' width='300' style="margin-right: 10px;" />
   <div>
-    <span style="font-style: italic;">*2024.9*, National Scholarship 🎉🎉🎉</span>
+    <span style="font-style: italic;">• 2024.9</span>, National Scholarship 🎉🎉🎉
   </div>
 </div>
+
 
 
 # 📖 Educations
