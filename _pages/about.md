@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "I am Zhongyi Zhang,a junior student at [HUST](https://hust.edu.cn/)"
 excerpt: ""
 author_profile: true
 redirect_from: 
