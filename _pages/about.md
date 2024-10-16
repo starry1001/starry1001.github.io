@@ -46,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🎖 Honors and Awards
 - *2024.9*, National Scholarship 🎉🎉🎉
 
-<img src='images/Scholarship.png' alt='National Scholarship' width='300' />
+<img src='images/Scholarship.png' alt='National Scholarship' width='100' />
 
 
 
