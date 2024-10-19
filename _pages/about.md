@@ -53,6 +53,6 @@ Yi Gui, Yao Wan, Zhen Li, **Zhongyi Zhang**, Dongping Chen, Hongyu Zhang, Yi Su,
 # 💬 Invited Talks
 
 # 💻 Internships
-- *2024.05 - Present*,Research Internship in Ones lab at HUST
+- *2024.05 - Present*, Research Internship in Ones lab at HUST
   
-  I have followed Yao Wan, Yi Gui, and Zhen Li to research UI2code. Next, I would like to conduct research related to LLM as Code Retriever.
+  I have followed [Yao Wan](http://wanyao.me/), Yi Gui, and Zhen Li to research UI2code. Next, I would like to conduct research related to LLM as Code Retriever.
