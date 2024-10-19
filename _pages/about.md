@@ -41,9 +41,10 @@ What's below is a template, not my publications.
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🍀 In Submission
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/UIcopilot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/UIcopilot.png' alt="UIcopilot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  
 Yi Gui, Yao Wan, Zhen Li, **Zhongyi Zhang**, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
 </div>
 </div>
