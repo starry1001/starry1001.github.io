@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhongyi Zhang,a junior student from [HUST](https://hust.edu.cn/). My research interest includes CV,NLP,LLM,UI2code.
+I am Zhongyi Zhang,a junior student from [HUST](https://hust.edu.cn/). My research interest includes CV,NLP,LLM,Vision2UI.
 
 
 
