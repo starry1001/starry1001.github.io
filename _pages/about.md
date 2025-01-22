@@ -27,7 +27,7 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 # 📝 Publications 
 
 # 🍀 In Submission
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/UIcopilot.png' alt="UIcopilot" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025 Oral</div><img src='images/UIcopilot.png' alt="UIcopilot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
   
