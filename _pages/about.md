@@ -25,13 +25,19 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 # 🔥 News
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025 Oral</div><img src='images/UIcopilot.png' alt="UIcopilot" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) 
+Yi Gui, Zhen Li, **Zhongyi Zhang**, Yao Wan, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
+</div>
+</div>
 
 # 🍀 In Submission
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025 Oral</div><img src='images/UIcopilot.png' alt="UIcopilot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-  
-Yi Gui, Yao Wan, Zhen Li, **Zhongyi Zhang**, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
+[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought]
+(https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Yi Gui, Zhen Li, Zhongyi Zhang, Guohao Wang, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
 </div>
 </div>
 - This paper is still under submission, so I haven't made it public. The link above is not to our paper.
