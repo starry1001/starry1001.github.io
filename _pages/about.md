@@ -24,6 +24,8 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 
 # 🔥 News
 
+🎉🎉 2025.01: **UICopilot** has been accepted by WWW 2025!
+
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025 Oral</div><img src='images/UIcopilot.png' alt="UIcopilot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
