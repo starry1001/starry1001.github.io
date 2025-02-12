@@ -24,15 +24,18 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 
 # 🔥 News
 
-🎉🎉 2025.01: **UICopilot** has been accepted by WWW 2025!
+- 🎉🎉 2025.01: **UICopilot** has been accepted by WWW 2025!
 
-# 📝 Publications 
+# 📝 Publications
+
+- \* indicates equal contribution. † indicates corresponding author.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025 Oral</div><img src='images/UIcopilot.png' alt="UIcopilot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](https://openreview.net/pdf?id=faMbH0wkye) 
   
-Yi Gui, Zhen Li, **Zhongyi Zhang**, Yao Wan, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
+Yi Gui*, Zhen Li*, **Zhongyi Zhang***, Yao Wan†, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
 </div>
 </div>
 
@@ -42,7 +45,7 @@ Yi Gui, Zhen Li, **Zhongyi Zhang**, Yao Wan, Dongping Chen, Hongyu Zhang, Yi Su,
   
 [LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](https://openreview.net/pdf?id=faMbH0wkye)
   
-Yi Gui, Zhen Li, **Zhongyi Zhang**, Guohao Wang, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
+Yi Gui*, Zhen Li*, **Zhongyi Zhang***, Guohao Wang*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
 </div>
 </div>
 - This paper is still under submission, so I haven't made it public. The link above is not to our paper.
