@@ -69,4 +69,4 @@ Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Ji
 # 💻 Internships
 - *2024.05 - Present*, Research Internship in One lab at HUST
   
-  I have followed [Yao Wan](http://wanyao.me/), Yi Gui, and Zhen Li to research Vision2UI. Next, I would like to conduct research related to Vision2UI agent/MLLM-as-a-Judge++.
+I have been collaborating with \href{http://wanyao.me}{Yao Wan}, Yi Gui, and Zhen Li on research in UI Intelligence. Additionally, I have been working alongside \href{http://wanyao.me}{Yao Wan} and Dongping Chen on MLLM-as-a-Judge. Looking ahead, I aspire to delve into MCTS-UI.  
