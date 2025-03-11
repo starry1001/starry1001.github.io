@@ -69,5 +69,7 @@ Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Ji
 # 💻 Internships
 - *2024.05 - Present*, Research Internship in One lab at HUST
   
-I have been collaborating with \href{http://wanyao.me}{Yao Wan}, Yi Gui, and Zhen Li on research in UI Intelligence. Additionally, I have been working alongside \href{http://wanyao.me}{Yao Wan} and Dongping Chen on MLLM-as-a-Judge. Looking ahead, I aspire to delve into MCTS-UI.
+I have been collaborating with \href{http://wanyao.me}{Yao Wan}, Yi Gui on research in UI Intelligence. \newline
+Additionally, I have been working alongside \href{http://wanyao.me}{Yao Wan} and Dongping Chen on MLLM-as-a-Judge. \newline
+Looking ahead, I aspire to delve into MCTS-UI.
 
