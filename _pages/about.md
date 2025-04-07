@@ -55,7 +55,7 @@ Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Ji
 
 [Judge Anything: MLLM as a Judge Across Any Modality](https://arxiv.org/pdf/2503.17489)
   
-Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
+Shu Pu\*, Yaochen Wang\*, Dongping Chen\*, Yuhang Chen\*, Guohao Wang\*, Qi Qin\*, **Zhongyi Zhang**\*, Zhiyuan Zhang\*, Zetong Zhou\*, Shuang Gong\*, Yi Gui, Yao Wan, Philip S. Yu
 </div>
 </div>
 - This paper is still under submission, so I haven't made it public. The link above is not to our paper.
