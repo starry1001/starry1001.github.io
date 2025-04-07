@@ -40,6 +40,7 @@ Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Yao Wan†, Dongping Chen, Hongyu Zhan
 
 # 🍀 In Submission
 <!-- 
+-->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/LaTCoder.png' alt="LaTCoder" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -48,8 +49,17 @@ Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Yao Wan†, Dongping Chen, Hongyu Zhan
 Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/LaTCoder.png' alt="LaTCoder" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Judge Anything: MLLM as a Judge Across Any Modality](https://arxiv.org/pdf/2503.17489)
+  
+Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
+</div>
+</div>
 - This paper is still under submission, so I haven't made it public. The link above is not to our paper.
--->
+
 
 # 🎖 Honors and Awards
 <div style="display: flex; align-items: center;">
