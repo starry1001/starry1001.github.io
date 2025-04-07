@@ -50,7 +50,7 @@ Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/LaTCoder.png' alt="LaTCoder" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/JudgeAnything.png' alt="LaTCoder" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Judge Anything: MLLM as a Judge Across Any Modality](https://arxiv.org/pdf/2503.17489)
