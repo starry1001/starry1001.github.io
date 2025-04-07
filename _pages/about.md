@@ -73,7 +73,8 @@ Shu Pu\*, Yaochen Wang\*, Dongping Chen\*, Yuhang Chen\*, Guohao Wang\*, Qi Qin\
 
 # 📖 Educations
 - *2022.09 - 2026.06(expected)*,  BEng., Huazhong University of Science and Technology
-- 
+
+
 <!-- 
 # 💬 Invited Talks
 -->
