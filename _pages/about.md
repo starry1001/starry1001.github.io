@@ -34,7 +34,7 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
   
 [UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](https://openreview.net/pdf?id=faMbH0wkye) 
   
-Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Yao Wan†, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
+Yi Gui\*, Yao Wan†, Zhen Li\*, **Zhongyi Zhang**\*, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
 </div>
 </div>
 
