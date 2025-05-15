@@ -71,7 +71,7 @@ Shu Pu\*, Yaochen Wang\*, Dongping Chen\*, Yuhang Chen\*, Guohao Wang\*, Qi Qin\
 <div style="display: flex; align-items: center;">
   <img src='images/Scholarship.png' alt='National Scholarship' width='300' style="margin-right: 10px;" />
   <div>
-    <span style="font-style: italic;">• National Scholarship, Ministry of Education of the P.R. China. 2024. 🎉🎉🎉</span>
+    • National Scholarship, Ministry of Education of the P.R. China. 2024. 🎉🎉🎉
   </div>
 </div>
 
