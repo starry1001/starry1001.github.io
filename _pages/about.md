@@ -27,7 +27,8 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 - 🎉🎉 2025.01: **UICopilot** has been selected as WWW 2025 Oral!
 - 🎉🎉 2025.05: **LaTCoder**  has been accepted by KDD 2025!
 - 🎉🎉 2025.05: **Judge Anything**  has been accepted by KDD 2025 D&B!
-- 
+
+  
 # 📝 Publications
 
 - \* indicates equal contribution. † indicates corresponding author.
