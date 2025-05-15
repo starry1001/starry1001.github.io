@@ -25,7 +25,9 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 # 🔥 News
 
 - 🎉🎉 2025.01: **UICopilot** has been selected as WWW 2025 Oral!
-
+- 🎉🎉 2025.05: **LaTCoder**  has been accepted by KDD 2025!
+- 🎉🎉 2025.05: **Judge Anything**  has been accepted by KDD 2025 D&B!
+- 
 # 📝 Publications
 
 - \* indicates equal contribution. † indicates corresponding author.
@@ -38,9 +40,6 @@ Yi Gui\*, Yao Wan†, Zhen Li\*, **Zhongyi Zhang**\*, Dongping Chen, Hongyu Zhan
 </div>
 </div>
 
-# 🍀 In Submission
-<!-- 
--->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/LaTCoder.png' alt="LaTCoder" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -58,6 +57,12 @@ Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Ji
 Shu Pu\*, Yaochen Wang\*, Dongping Chen\*, Yuhang Chen\*, Guohao Wang\*, Qi Qin\*, **Zhongyi Zhang**\*, Zhiyuan Zhang\*, Zetong Zhou\*, Shuang Gong\*, Yi Gui, Yao Wan†, Philip S. Yu
 </div>
 </div>
+
+
+# 🍀 In Submission
+<!-- 
+-->
+
 - This paper is still under submission, so I haven't made it public. The link above is not to our paper.
 
 
