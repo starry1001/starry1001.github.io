@@ -59,13 +59,11 @@ Shu Pu\*, Yaochen Wang\*, Dongping Chen\*, Yuhang Chen\*, Guohao Wang\*, Qi Qin\
 </div>
 </div>
 
-
-# 🍀 In Submission
 <!-- 
--->
+# 🍀 In Submission
 
 - This paper is still under submission, so I haven't made it public. The link above is not to our paper.
-
+-->
 
 # 🎖 Honors and Awards
 <div style="display: flex; align-items: center;">
