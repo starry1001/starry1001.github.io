@@ -32,7 +32,7 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025 Oral</div><img src='images/UIcopilot.png' alt="UIcopilot" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](https://openreview.net/pdf?id=faMbH0wkye) 
+[UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](https://dl.acm.org/doi/pdf/10.1145/3696410.3714891)
   
 Yi Gui\*, Yao Wan†, Zhen Li\*, **Zhongyi Zhang**\*, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
 </div>
@@ -44,7 +44,7 @@ Yi Gui\*, Yao Wan†, Zhen Li\*, **Zhongyi Zhang**\*, Dongping Chen, Hongyu Zhan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/LaTCoder.png' alt="LaTCoder" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](https://openreview.net/pdf?id=faMbH0wkye)
+[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](https://openreview.net/pdf?id=7MM0Wehuj0)
   
 Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
 </div>
