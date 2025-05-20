@@ -26,7 +26,7 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 
 - 🎉🎉 2025.01: **UICopilot** has been selected as WWW 2025 Oral!
 - 🎉🎉 2025.05: **LaTCoder**  has been accepted by KDD 2025!
-- 🎉🎉 2025.05: **Judge Anything**  has been accepted by KDD 2025 D&B!
+- 🎉🎉 2025.05: **Judge Anything**  has been selected as KDD 2025 D&B Oral!
 
   
 # 📝 Publications
@@ -50,7 +50,7 @@ Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Ji
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025 D&B</div><img src='images/JudgeAnything.png' alt="Judge Anything" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025 D&B Oral</div><img src='images/JudgeAnything.png' alt="Judge Anything" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Judge Anything: MLLM as a Judge Across Any Modality](https://arxiv.org/pdf/2503.17489)
