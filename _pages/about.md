@@ -89,7 +89,26 @@ Shu Pu\*, Yaochen Wang\*, Dongping Chen\*, Yuhang Chen\*, Guohao Wang\*, Qi Qin\
 I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research in UI Intelligence. Additionally, I have been working alongside Yao Wan and Dongping Chen on MLLM-as-a-Judge. Looking ahead, I aspire to delve into MCTS-UI.
 
 <!-- 👣 Visitor Tracker -->
-<div align="center">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=SxbfQUBRbNLUE8Q28AwxshiF8YU2DwP6P6HxRpkeUOs&cl=ffffff&w=a"></script>
-</div>
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map Widget</title>
+    <style>
+        .map-container {
+            width: 300px; 
+            margin: 0 auto; 
+            text-align: center; 
+        }
+        .map-container iframe {
+            width: 100%; 
+            height: 300px; 
+        }
+    </style>
+</head>
+<body>
+    <div class="map-container">
+        <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=SxbfQUBRbNLUE8Q28AwxshiF8YU2DwP6P6HxRpkeUOs&cl=ffffff&w=a"></script>
+    </div>
+</body>
+</html>
