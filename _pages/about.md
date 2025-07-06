@@ -86,7 +86,7 @@ Shu Pu\*, Yaochen Wang\*, Dongping Chen\*, Yuhang Chen\*, Guohao Wang\*, Qi Qin\
 # 💻 Internships
 - *2024.05 - Present*, Research Internship in One lab at HUST
   
-I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research in UI Intelligence. Additionally, I have been working alongside Yao Wan and Dongping Chen on MLLM-as-a-Judge. Looking ahead, I aspire to delve into MCTS-UI.
+I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research in UI Intelligence. Additionally, I have been working alongside Yao Wan and Dongping Chen on MLLM-as-a-Judge. Looking ahead, I aspire to delve into UI token compression.
 
 # 👣 Visitor Tracker
 <html lang="en">
