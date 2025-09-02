@@ -44,7 +44,7 @@ Yi Gui\*, Yao Wan†, Zhen Li\*, **Zhongyi Zhang**\*, Dongping Chen, Hongyu Zhan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='images/LaTCoder.png' alt="LaTCoder" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](https://openreview.net/pdf?id=7MM0Wehuj0)
+[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](https://arxiv.org/pdf/2508.03560)
   
 Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
 </div>
