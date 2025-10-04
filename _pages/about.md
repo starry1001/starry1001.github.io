@@ -115,8 +115,7 @@ Shu Pu, Yaochen Wang, Dongping Chen, Yuhang Chen, Guohao Wang, Qi Qin, <span cla
   </div>
   <div class='paper-box-text' markdown="1">
 
-**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**  
-[[PDF]](https://arxiv.org/pdf/2509.12159) [[GitHub]](https://github.com/WebPAI/EfficientUICoder)
+**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**  [[PDF]](https://arxiv.org/pdf/2509.12159) [[GitHub]](https://github.com/WebPAI/EfficientUICoder)
 
 Jingyu Xiao, <span class="author-me">Zhongyi Zhang</span>, Yuxuan Wan, Yintong Huo†, Yang Liu, Michael R. Lyu
 
