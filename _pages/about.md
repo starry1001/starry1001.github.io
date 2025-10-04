@@ -28,7 +28,7 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 - 🎉🎉 2025.05: **LaTCoder**  has been accepted by KDD 2025!
 - 🎉🎉 2025.05: **Judge Anything**  has been selected as KDD 2025 D&B Oral!
 
-  
+<!-- 
 # 📝 Publications
 
 - \* indicates equal contribution. † indicates corresponding author.
@@ -58,6 +58,68 @@ Yi Gui\*, Zhen Li\*, **Zhongyi Zhang**\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Ji
 Shu Pu, Yaochen Wang, Dongping Chen, Yuhang Chen, Guohao Wang, Qi Qin, **Zhongyi Zhang**, Zhiyuan Zhang, Zetong Zhou, Shuang Gong, Yi Gui, Yao Wan†, Philip S. Yu
 </div>
 </div>
+-->
+
+
+## 📝 Publications  
+\* indicates equal contribution. † indicates corresponding author.
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">WWW 2025 Oral</div>
+      <img src='images/UIcopilot.png' alt="UICopilot" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs**  
+[[PDF]](https://dl.acm.org/doi/pdf/10.1145/3696410.3714891)
+
+Yi Gui\*, Yao Wan†, Zhen Li\*, <span class="author-me">**Zhongyi Zhang**</span>\*, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
+
+  </div>
+</div>
+
+---
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">KDD 2025</div>
+      <img src='images/LaTCoder.png' alt="LaTCoder" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**LaTCoder: Converting Webpage Design to Code with Layout-as-Thought**  
+[[PDF]](https://arxiv.org/pdf/2508.03560)
+
+Yi Gui\*, Zhen Li\*, <span class="author-me">**Zhongyi Zhang**</span>\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
+
+  </div>
+</div>
+
+---
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">KDD 2025 D&B Oral</div>
+      <img src='images/JudgeAnything.png' alt="JudgeAnything" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**Judge Anything: MLLM as a Judge Across Any Modality**  
+[[PDF]](https://arxiv.org/pdf/2503.17489)
+
+Shu Pu, Yaochen Wang, Dongping Chen, Yuhang Chen, Guohao Wang, Qi Qin, <span class="author-me">**Zhongyi Zhang**</span>, Zhiyuan Zhang, Zetong Zhou, Shuang Gong, Yi Gui, Yao Wan†, Philip S. Yu
+
+  </div>
+</div>
+
+
 
 <!-- 
 # 🍀 In Submission
