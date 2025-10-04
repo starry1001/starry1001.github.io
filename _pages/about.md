@@ -41,7 +41,16 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 }
 </style>
 
-**UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3696410.3714891)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">WWW 2025 Oral</div>
+      <img src='images/UIcopilot.png' alt="UICopilot" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    
+**UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs** [[PDF]](https://arxiv.org/pdf/2505.09904)
 
 Yi Gui\*, Yao Wan†, Zhen Li\*, <span class="author-me">Zhongyi Zhang</span>\*, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
 
