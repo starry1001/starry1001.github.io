@@ -74,9 +74,7 @@ Shu Pu, Yaochen Wang, Dongping Chen, Yuhang Chen, Guohao Wang, Qi Qin, **Zhongyi
   <div class='paper-box-text' markdown="1">
 
 **UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs**  [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3696410.3714891)
-
 Yi Gui\*, Yao Wan†, Zhen Li\*, <span class="author-me">**Zhongyi Zhang**</span>\*, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
-
   </div>
 </div>
 
@@ -92,9 +90,7 @@ Yi Gui\*, Yao Wan†, Zhen Li\*, <span class="author-me">**Zhongyi Zhang**</span
   <div class='paper-box-text' markdown="1">
 
 **LaTCoder: Converting Webpage Design to Code with Layout-as-Thought**  [[PDF]](https://arxiv.org/pdf/2508.03560)
-
 Yi Gui\*, Zhen Li\*, <span class="author-me">**Zhongyi Zhang**</span>\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
-
   </div>
 </div>
 
@@ -110,9 +106,7 @@ Yi Gui\*, Zhen Li\*, <span class="author-me">**Zhongyi Zhang**</span>\*, Guohao 
   <div class='paper-box-text' markdown="1">
 
 **Judge Anything: MLLM as a Judge Across Any Modality**  [[PDF]](https://arxiv.org/pdf/2503.17489)
-
 Shu Pu, Yaochen Wang, Dongping Chen, Yuhang Chen, Guohao Wang, Qi Qin, <span class="author-me">**Zhongyi Zhang**</span>, Zhiyuan Zhang, Zetong Zhou, Shuang Gong, Yi Gui, Yao Wan†, Philip S. Yu
-
   </div>
 </div>
 
