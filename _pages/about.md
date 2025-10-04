@@ -1,3 +1,85 @@
+
+<style>
+.publication-tabs {
+    display: flex;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.tab-button {
+    background: none;
+    border: none;
+    padding: 12px 24px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    color: #666;
+    border-bottom: 3px solid transparent;
+    transition: all 0.3s ease;
+    margin-right: 10px;
+}
+
+.tab-button:hover {
+    color: #333;
+    background-color: #f5f5f5;
+}
+
+.tab-button.active {
+    color: #2c5aa0;
+    border-bottom-color: #2c5aa0;
+    background-color: #f8f9fa;
+}
+
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+.empty-section {
+    text-align: center;
+    padding: 40px 20px;
+    color: #666;
+    font-style: italic;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.author-me {
+    background-color: #E3F2FD;
+    border: 1px solid #BBDEFB;
+    border-radius: 4px;
+    padding: 2px 6px;
+    margin: 0 2px;
+    color: #1565C0;
+    font-weight: 500;
+}
+
+.highlight-red {
+    background-color: #FFEBEE;
+    border: 1px solid #FFCDD2;
+    border-radius: 4px;
+    padding: 4px 8px;
+    margin: 2px 0;
+    color: #C62828;
+    font-weight: 600;
+    display: inline-block;
+}
+</style>
+
+<div class="publication-tabs">
+    <button class="tab-button active" onclick="switchTab(event, 'mainly-contribute')">Papers I Mainly Contribute</button>
+    <button class="tab-button" onclick="switchTab(event, 'projects-lead')">Projects that I Lead</button>
+</div>
+
+<div id="mainly-contribute" class="tab-content active">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Spotlight</div><img src='images/ISG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 ---
 permalink: /
 title: "I am Zhongyi Zhang, a third-year undergraduate student at [HUST](https://hust.edu.cn/)"
@@ -21,12 +103,12 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
 
 
 
-
 # 🔥 News
 
 - 🎉🎉 2025.01: **UICopilot** has been selected as WWW 2025 Oral!
 - 🎉🎉 2025.05: **LaTCoder**  has been accepted by KDD 2025!
 - 🎉🎉 2025.05: **Judge Anything**  has been selected as KDD 2025 D&B Oral!
+
 
 # 📝 Publications  
 \* indicates equal contribution. † indicates corresponding author.
@@ -40,9 +122,9 @@ I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.e
   </div>
   <div class='paper-box-text' markdown="1">
 
-**UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs**  [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3696410.3714891)
+**UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs** [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3696410.3714891)
 
-Yi Gui\*, Yao Wan†, Zhen Li\*, <span class="author-me">**Zhongyi Zhang**</span>\*, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
+Yi Gui\*, Yao Wan†, Zhen Li\*, <span class="author-me">Zhongyi Zhang</span>\*, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
 
   </div>
 </div>
@@ -58,9 +140,9 @@ Yi Gui\*, Yao Wan†, Zhen Li\*, <span class="author-me">**Zhongyi Zhang**</span
   </div>
   <div class='paper-box-text' markdown="1">
 
-**LaTCoder: Converting Webpage Design to Code with Layout-as-Thought**  [[PDF]](https://arxiv.org/pdf/2508.03560)
+**LaTCoder: Converting Webpage Design to Code with Layout-as-Thought** [[PDF]](https://arxiv.org/pdf/2508.03560)
 
-Yi Gui\*, Zhen Li\*, <span class="author-me">**Zhongyi Zhang**</span>\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
+Yi Gui\*, Zhen Li\*, <span class="author-me">Zhongyi Zhang</span>\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
 
   </div>
 </div>
@@ -76,13 +158,12 @@ Yi Gui\*, Zhen Li\*, <span class="author-me">**Zhongyi Zhang**</span>\*, Guohao 
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Judge Anything: MLLM as a Judge Across Any Modality**  [[PDF]](https://arxiv.org/pdf/2503.17489)
+**Judge Anything: MLLM as a Judge Across Any Modality** [[PDF]](https://arxiv.org/pdf/2503.17489) [[Webpage]](https://urrealhero.github.io/judgeanythingweb/)
 
-Shu Pu, Yaochen Wang, Dongping Chen, Yuhang Chen, Guohao Wang, Qi Qin, <span class="author-me">**Zhongyi Zhang**</span>, Zhiyuan Zhang, Zetong Zhou, Shuang Gong, Yi Gui, Yao Wan†, Philip S. Yu
+Shu Pu, Yaochen Wang, Dongping Chen, Yuhang Chen, Guohao Wang, Qi Qin, <span class="author-me">Zhongyi Zhang</span>, Zhiyuan Zhang, Zetong Zhou, Shuang Gong, Yi Gui, Yao Wan†, Philip S. Yu
 
   </div>
 </div>
-
 
 
 <!-- 
