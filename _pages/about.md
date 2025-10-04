@@ -1,3 +1,34 @@
+---
+permalink: /
+title: "I am Zhongyi Zhang, a third-year undergraduate student at [HUST](https://hust.edu.cn/)"
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
+I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.edu.cn/). My research interest includes CV,NLP,LLM,UI Intelligence, and LLM-based Agents.
+
+
+
+# 🔥 News
+
+- 🎉🎉 2025.01: **UICopilot** has been selected as WWW 2025 Oral!
+- 🎉🎉 2025.05: **LaTCoder**  has been accepted by KDD 2025!
+- 🎉🎉 2025.05: **Judge Anything**  has been selected as KDD 2025 D&B Oral!
+
+
+# 📝 Publications  
 
 <style>
 .publication-tabs {
@@ -80,37 +111,6 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Spotlight</div><img src='images/ISG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
----
-permalink: /
-title: "I am Zhongyi Zhang, a third-year undergraduate student at [HUST](https://hust.edu.cn/)"
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
-I am Zhongyi Zhang,a third-year undergraduate student from [HUST](https://hust.edu.cn/). My research interest includes CV,NLP,LLM,UI Intelligence, and LLM-based Agents.
-
-
-
-# 🔥 News
-
-- 🎉🎉 2025.01: **UICopilot** has been selected as WWW 2025 Oral!
-- 🎉🎉 2025.05: **LaTCoder**  has been accepted by KDD 2025!
-- 🎉🎉 2025.05: **Judge Anything**  has been selected as KDD 2025 D&B Oral!
-
-
-# 📝 Publications  
 \* indicates equal contribution. † indicates corresponding author.
 
 <div class='paper-box'>
