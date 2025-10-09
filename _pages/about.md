@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am Zhongyi Zhang, a third-year undergraduate student at [HUST](https://hust.edu.cn/)"
+title: "I am Zhongyi Zhang, a final-year undergraduate student at [HUST](https://hust.edu.cn/)"
 excerpt: ""
 author_profile: true
 redirect_from: 
