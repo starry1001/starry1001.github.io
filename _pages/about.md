@@ -139,9 +139,7 @@ Jingyu Xiao, <span class="author-me">Zhongyi Zhang</span>, Yuxuan Wan, Yintong H
 -->
 
 # 💻 Internships
-- *2024.05 - Present*, Research Internship in One lab at HUST
-  
-I have been collaborating with [Yao Wan](http://wanyao.me), Yi Gui on research in UI Intelligence. Additionally, I have been working alongside Yao Wan and Dongping Chen on MLLM-as-a-Judge. Looking ahead, I aspire to delve into UI token compression.
+- *2024.05 – 2025.06*, Research Internship at One Lab, HUST, advised by Prof. [Yao Wan](http://wanyao.me).
 
 # 👣 Visitor Tracker
 <html lang="en">
