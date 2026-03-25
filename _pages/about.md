@@ -126,13 +126,8 @@ Jingyu Xiao, <span class="author-me">Zhongyi Zhang</span>, Yuxuan Wan, Yintong H
 
 
 # 🎖 Honors and Awards
-<div style="display: flex; align-items: center;">
-<!--   <img src='images/Scholarship.png' alt='National Scholarship' width='300' style="margin-right: 10px;" />-->
-  <div>
-    • National Scholarship, Ministry of Education of the P.R. China. 2024. 🎉🎉🎉
-  </div>
-</div>
 
+- **National Scholarship**, Ministry of Education of the P.R. China. 2024. 🎉🎉🎉
 
 
 # 📖 Educations
