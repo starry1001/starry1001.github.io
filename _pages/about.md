@@ -140,7 +140,7 @@ Jingyu Xiao, <span class="author-me">Zhongyi Zhang</span>, Yuxuan Wan, Yintong H
 -->
 
 # 💻 Internships
-- *2024.05 – 2025.06*, Research Internship at One Lab, HUST, advised by Prof. [Yao Wan](http://wanyao.me).
+- *2024.05 – 2025.06*, Research Internship at One Lab, HUST, advised by [Prof. Yao Wan](http://wanyao.me).
 
 # 👣 Visitor Tracker
 <html lang="en">
