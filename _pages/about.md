@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am Zhongyi Zhang, a final-year undergraduate student at [HUST](https://hust.edu.cn/)"
+title: "I am Zhongyi Zhang, an incoming CSE Ph.D. student at [CUHK](https://www.cuhk.edu.hk/english/index.html)"
 excerpt: ""
 author_profile: true
 redirect_from: 
