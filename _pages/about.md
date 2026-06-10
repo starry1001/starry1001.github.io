@@ -132,7 +132,7 @@ Jingyu Xiao, <span class="author-me">Zhongyi Zhang</span>, Yuxuan Wan, Yintong H
 
 
 # 📖 Educations
-- *2022.09 - 2026.06(expected)*,  BEng., Huazhong University of Science and Technology
+- *2022.09 - 2026.06*,  BEng., Huazhong University of Science and Technology
 
 
 <!-- 
