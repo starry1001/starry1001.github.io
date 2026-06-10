@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhongyi Zhang,a final-year undergraduate student from [HUST](https://hust.edu.cn/). My research interest includes CV,NLP,LLM,UI Intelligence, and LLM-based Agents.
+
+I am an incoming CSE Ph.D. student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, I collaborated with [Prof. Yao Wan](http://wanyao.me) at ONE Lab, [Huazhong University of Science and Technology](https://hust.edu.cn/). My research interests include UI Intelligence, MLLM4Code, and LLM-based Agents.
 
 
 
@@ -50,7 +51,7 @@ I am Zhongyi Zhang,a final-year undergraduate student from [HUST](https://hust.e
   </div>
   <div class='paper-box-text' markdown="1">
     
-**UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs** [[PDF]](https://arxiv.org/pdf/2505.09904)
+**UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs** [[Paper]](https://arxiv.org/pdf/2505.09904) [[Code]](https://github.com/CGCL-codes/naturalcc/tree/main/examples/uicopilot)
 
 Yi Gui\*, Yao Wan†, Zhen Li\*, <span class="author-me">Zhongyi Zhang</span>\*, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
 
@@ -67,7 +68,7 @@ Yi Gui\*, Yao Wan†, Zhen Li\*, <span class="author-me">Zhongyi Zhang</span>\*,
   </div>
   <div class='paper-box-text' markdown="1">
 
-**LaTCoder: Converting Webpage Design to Code with Layout-as-Thought** [[PDF]](https://arxiv.org/pdf/2508.03560)
+**LaTCoder: Converting Webpage Design to Code with Layout-as-Thought** [[Paper]](https://arxiv.org/pdf/2508.03560)[[Code]](https://github.com/CGCL-codes/naturalcc/tree/main/examples/latcoder)
 
 Yi Gui\*, Zhen Li\*, <span class="author-me">Zhongyi Zhang</span>\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
 
@@ -84,7 +85,7 @@ Yi Gui\*, Zhen Li\*, <span class="author-me">Zhongyi Zhang</span>\*, Guohao Wang
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Judge Anything: MLLM as a Judge Across Any Modality** [[PDF]](https://arxiv.org/pdf/2503.17489) [[Webpage]](https://urrealhero.github.io/judgeanythingweb/)
+**Judge Anything: MLLM as a Judge Across Any Modality** [[Paper]](https://arxiv.org/pdf/2503.17489) [[Webpage]](https://urrealhero.github.io/judgeanythingweb/)
 
 Shu Pu, Yaochen Wang, Dongping Chen, Yuhang Chen, Guohao Wang, Qi Qin, <span class="author-me">Zhongyi Zhang</span>, Zhiyuan Zhang, Zetong Zhou, Shuang Gong, Yi Gui, Yao Wan†, Philip S. Yu
 
@@ -101,7 +102,7 @@ Shu Pu, Yaochen Wang, Dongping Chen, Yuhang Chen, Guohao Wang, Qi Qin, <span cla
   </div>
   <div class='paper-box-text' markdown="1">
 
-**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**  [[PDF]](https://arxiv.org/pdf/2509.12159) [[GitHub]](https://github.com/WebPAI/EfficientUICoder)
+**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**  [[Paper]](https://arxiv.org/pdf/2509.12159) [[Code]](https://github.com/WebPAI/EfficientUICoder)
 
 Jingyu Xiao, <span class="author-me">Zhongyi Zhang</span>, Yuxuan Wan, Yintong Huo†, Yang Liu, Michael R. Lyu
 
