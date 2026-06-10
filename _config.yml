@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhongyi Zhang"
-description              : "Final-year Undergraduate"
+description              : "Ph.D. student of CSE, CUHK"
 repository               : "starry1001/starry1001.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhongyi Zhang"
   avatar           : "images/profile4.png"
-  bio              : "Huazhong University of Science and Technology"
-  location         : "Wuhan, China"
+  bio              : "The Chinese University of Hong Kong"
+  location         : "Sha Tin, Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WWAjntEAAAAJ&hl=en"
