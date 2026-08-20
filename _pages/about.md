@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am Zhongyi Zhang, an incoming CSE Ph.D. student at [CUHK](https://www.cuhk.edu.hk/english/index.html)"
+title: "I am Zhongyi Zhang, a first-year CSE Ph.D. student at [CUHK](https://www.cuhk.edu.hk/english/index.html)"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an incoming CSE Ph.D. student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, I collaborated with [Prof. Yao Wan](http://wanyao.me) at ONE Lab, [Huazhong University of Science and Technology](https://hust.edu.cn/). My research interests include UI Intelligence, MLLM4Code, and LLM-based Agents.
+I am a first-year CSE Ph.D. student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), advised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, I collaborated with [Prof. Yao Wan](http://wanyao.me) at ONE Lab, [Huazhong University of Science and Technology](https://hust.edu.cn/). My research interests include UI Intelligence, MLLM4Code, and LLM-based Agents.
 
 
 
