@@ -30,7 +30,7 @@ I am a first-year CSE Ph.D. student at [The Chinese University of Hong Kong](htt
 - 🎉🎉 2026.03: **EfficientUICoder**  has been accepted by FSE 2026!
 
 # 📝 Publications  
-
+<!-- 
 <style>
 .author-me {
   background-color: #E3F2FD;
@@ -108,7 +108,7 @@ Jingyu Xiao, <span class="author-me">Zhongyi Zhang</span>, Yuxuan Wan, Yintong H
 
   </div>
 </div>
-
+-->
 <!-- 
 # 🍀 In Submission
 
@@ -125,6 +125,47 @@ Jingyu Xiao, <span class="author-me">Zhongyi Zhang</span>, Yuxuan Wan, Yintong H
 -->
 
 
+<style>
+.author-me {
+  background-color: #E3F2FD;
+  border: 1px solid #90CAF9;   
+  border-radius: 4px;
+  padding: 2px 6px;
+  color: #1565C0;              
+  font-weight: 600;
+}
+.pub-item {
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+</style>
+
+<div class="pub-item" markdown="1">
+<span class="badge">WWW 2025 Oral</span> **UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs** [[Paper]](https://arxiv.org/pdf/2505.09904) [[Code]](https://github.com/CGCL-codes/naturalcc/tree/main/examples/uicopilot)
+
+Yi Gui\*, Yao Wan†, Zhen Li\*, <span class="author-me">Zhongyi Zhang</span>\*, Dongping Chen, Hongyu Zhang, Yi Su, Bohua Chen, Xing Zhou, Wenbin Jiang, Xiangliang Zhang
+</div>
+
+<div class="pub-item" markdown="1">
+<span class="badge">KDD 2025</span> **LaTCoder: Converting Webpage Design to Code with Layout-as-Thought** [[Paper]](https://arxiv.org/pdf/2508.03560) [[Code]](https://github.com/CGCL-codes/naturalcc/tree/main/examples/latcoder)
+
+Yi Gui\*, Zhen Li\*, <span class="author-me">Zhongyi Zhang</span>\*, Guohao Wang\*, Tianpeng Lv, Gaoyang Jiang, Yi Liu, Dongping Chen, Yao Wan†, Hongyu Zhang, Wenbin Jiang, Xuanhua Shi, Hai Jin
+</div>
+
+<div class="pub-item" markdown="1">
+<span class="badge">KDD 2025 D&B Oral</span> **Judge Anything: MLLM as a Judge Across Any Modality** [[Paper]](https://arxiv.org/pdf/2503.17489) [[Webpage]](https://urrealhero.github.io/judgeanythingweb/)
+
+Shu Pu, Yaochen Wang, Dongping Chen, Yuhang Chen, Guohao Wang, Qi Qin, <span class="author-me">Zhongyi Zhang</span>, Zhiyuan Zhang, Zetong Zhou, Shuang Gong, Yi Gui, Yao Wan†, Philip S. Yu
+</div>
+
+<div class="pub-item" markdown="1">
+<span class="badge">FSE 2026</span> **EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression** [[Paper]](https://arxiv.org/pdf/2509.12159) [[Code]](https://github.com/WebPAI/EfficientUICoder)
+
+Jingyu Xiao, <span class="author-me">Zhongyi Zhang</span>, Yuxuan Wan, Yintong Huo†, Yang Liu, Michael R. Lyu
+</div>
+
+
+
 
 # 🎖 Honors and Awards
 
@@ -132,7 +173,8 @@ Jingyu Xiao, <span class="author-me">Zhongyi Zhang</span>, Yuxuan Wan, Yintong H
 
 
 # 📖 Educations
-- *2022.09 - 2026.06*,  BEng., Huazhong University of Science and Technology
+- *2026.08 - Present*, Ph.D. Student, The Chinese University of Hong Kong
+- *2022.09 - 2026.06*, BEng., Huazhong University of Science and Technology
 
 
 <!-- 
